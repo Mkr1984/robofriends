@@ -1,0 +1,8 @@
+$theme-colors: (
+    "success": lightgreen
+);
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background: linear-gradient(to left, darkgreen,darkblue);
+}

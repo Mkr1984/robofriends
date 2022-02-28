@@ -1,0 +1,9 @@
+.card {
+    width: 260px;
+    margin: auto;
+    transition: all .1s;
+    box-shadow: 5px 5px 10px black;
+    &:hover {
+        transform: scale(1.05);
+    }
+}

@@ -1,0 +1,7 @@
+input[type=search] {
+    background-color: lightblue;
+    border-color: darkblue;
+    &:focus-visible {
+        outline: unset;
+    }
+}
