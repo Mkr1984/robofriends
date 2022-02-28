@@ -5,7 +5,7 @@ import './Robotcard.scss'
 const Robotcard = ( { name, username, email } ) => {
     return (
         <Col
-            className="mb-3"
+            className="my-3"
         >
             <Card
                 bg="success" 
